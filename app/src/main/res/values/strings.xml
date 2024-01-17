@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Compose List Sample</string>
+
+    <string name="s1">1</string>
+    <string name="s2">2</string>
+    <string name="s3">3</string>
+    <string name="s4">4</string>
+    <string name="s5">5</string>
+    <string name="s6">6</string>
+    <string name="s7">7</string>
+    <string name="s8">8</string>
+    <string name="s9">9</string>
+    <string name="s10">10</string>
+</resources>
